@@ -1,2 +1,1 @@
-merge 
-123456 add data + add data 123
+pull 123456 add data + add data 123
