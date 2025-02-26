@@ -1,2 +1,2 @@
-pull 
-fetch 123456 add data + add data 123
+merge 
+123456 add data + add data 123
