@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 create
 
 
  new data
+=======
+creater new data
+>>>>>>> f57d22e (updare dev1.1 and update dev2.2)
