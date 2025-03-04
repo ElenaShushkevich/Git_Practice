@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1234fdsa update local
+=======
+1234fdsa remote
+>>>>>>> b2ff321c856bf0eb2791f8f0da2775a066b4a78f
